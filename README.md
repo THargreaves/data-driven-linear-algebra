@@ -25,4 +25,5 @@ The sessions will be accessible to anyone with a basic (A Level) knowledge of ma
 
 - Session One [Lecture Notes](https://raw.githubusercontent.com/THargreaves/data-driven-linear-algebra/master/lecture_notes/session_one_lecture_notes.pdf)
 - Session Two [Lecture Notes](https://raw.githubusercontent.com/THargreaves/data-driven-linear-algebra/master/lecture_notes/session_two_lecture_notes.pdf)
-- Session Three [Lecture Notes](https://raw.githubusercontent.com/THargreaves/data-driven-linear-algebra/master/lecture_notes/session_three_lecture_notes.pdf) & [Example Notebook](https://raw.githubusercontent.com/THargreaves/data-driven-linear-algebra/master/example_notebooks/session_three_example_notebook.ipynb)
+- Session Three [Lecture Notes](https://raw.githubusercontent.com/THargreaves/data-driven-linear-algebra/master/lecture_notes/session_three_lecture_notes.pdf) & [Example Notebook](https://colab.research.google.com/github/warwickdatascience/data-driven-linear-algebra/blob/master/example_notebooks/session_three_example_notebook.ipynb)
+
